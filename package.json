@@ -1,0 +1,19 @@
+{
+  "name": "cah-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/David-L-R/cards_against_humanity_server.git"
+  },
+  "author": "David L Rajcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-L-R/cards_against_humanity_server/issues"
+  },
+  "homepage": "https://github.com/David-L-R/cards_against_humanity_server#readme"
+}
